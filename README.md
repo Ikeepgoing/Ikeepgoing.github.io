@@ -1,6 +1,6 @@
 # Hello world
 My name is Ikeepgoing, 
-but i prefere to be called /zero 
+but I prefer to be called /zero 
 (yes, after the meme)
 
 I have little knowledge in programming, 
